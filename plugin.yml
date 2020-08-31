@@ -1,0 +1,9 @@
+name: RulesUI
+main: RulesUI\Main
+api: 3.0.0
+version: 1.0.0
+author: BlueCraftMC
+
+commands:
+   rules:
+      description: "Open RulesUI"
